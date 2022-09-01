@@ -1,0 +1,11 @@
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Debug\IntelligentAnsweringSystem.exe.config
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Debug\IntelligentAnsweringSystem.exe
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Debug\IntelligentAnsweringSystem.pdb
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.IntelligentAnsweringSystemForm.resources
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.Properties.Resources.resources
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.exe
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.pdb
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Debug\IntelligentAnsweringSystem.csproj.AssemblyReference.cache

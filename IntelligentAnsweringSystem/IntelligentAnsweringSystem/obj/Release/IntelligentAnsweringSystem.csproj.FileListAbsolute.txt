@@ -1,0 +1,10 @@
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Release\IntelligentAnsweringSystem.exe.config
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Release\IntelligentAnsweringSystem.exe
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\bin\Release\IntelligentAnsweringSystem.pdb
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.IntelligentAnsweringSystemForm.resources
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.Properties.Resources.resources
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.csproj.GenerateResource.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.exe
+C:\Users\Matej\Desktop\FAKS\DIPLOMSKI\5. GODINA\10. SEMESTAR\Diplomski rad\Prakticni dio\IntelligentAnsweringSystem\IntelligentAnsweringSystem\obj\Release\IntelligentAnsweringSystem.pdb
